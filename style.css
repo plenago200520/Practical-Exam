@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2afd8;
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    color: #c5e4da;
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+center {
+    display: block;
+    text-align: center;
+    margin-top: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: #f1f3f4;
+    font-weight: bold;
+}
+
+
+ul p {
+    background-color: d5a0e7;
+    margin: 10px auto;
+    padding: 10px;
+    border: 1px solid #f9edfa;
+    width: fit-content;
+    border-radius: 5px;
+}
